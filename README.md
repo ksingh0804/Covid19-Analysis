@@ -1,1 +1,2 @@
 # Covid19-Analysis
+#### COVID-19 is the disease caused by SARS-CoV-2, the coronavirus that emerged in December 2019. COVID-19 can be severe, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness. For this project different type of datasets were collected, it also performed web scraping and joining three different file names into one.
